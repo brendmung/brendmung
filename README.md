@@ -1,6 +1,6 @@
 # > hello, welcome|
 
-> *"it works on my machine"*
+> *"write code like someone will read it. then remember they won't."*
 
 ## what you'll find here
 
@@ -9,7 +9,7 @@ this is where i dump code that works (sometimes). each repository is either a st
 ## repository categories
 
 **🚀 stuff that actually works**  
-projects i can show without feeling embarrassed
+projects i can show without thinking twice
 
 **🧪 random experiments**  
 "what happens if i..." type of repositories
@@ -19,17 +19,12 @@ following tutorials and seeing how badly i can mess them up
 
 **🤷‍♂️ questionable decisions**  
 we all have these. at least mine compile.
+
 ## what to expect
 
 most stuff here actually runs. some of it even does what it's supposed to do. browse around and see what happens - worst case scenario, you learn what not to do.
 
-## random repo facts
-
-- commit messages range from professional to "fix stuff"
-- some repos started as 5-minute fixes and became week-long projects
-- my code comments are either way too detailed or completely missing
-
-## explore at your own risk
+## explore staff
 
 each repository is an adventure. some will teach you something new, others will teach you what not to do. both are valuable learning experiences!
 
