@@ -1,6 +1,6 @@
 # > hello, welcome|
 
-> *"write code like someone will read it. then remember they won't."*
+> *"write code like someone will read it. then remember they won't.  ——bug"*
 
 ## what you'll find here
 
