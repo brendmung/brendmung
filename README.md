@@ -28,8 +28,6 @@ most stuff here actually runs. some of it even does what it's supposed to do. br
 - commit messages range from professional to "fix stuff"
 - some repos started as 5-minute fixes and became week-long projects
 - my code comments are either way too detailed or completely missing
-- half my readmes just say "# project name"
-- everything works(wanna find out?)
 
 ## explore at your own risk
 
