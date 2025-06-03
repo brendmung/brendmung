@@ -1,40 +1,46 @@
-# Hello there👋
+# welcome
 
-> *"It works on my machine"*
+> *"it works on my machine"*
 
-## What you'll find here
+## what you'll find here
 
-This is where I dump code that works (sometimes). Each repository is either a stroke of genius or a beautiful disaster - honestly, even I'm not sure which is which half the time.
+this is where i dump code that works (sometimes). each repository is either a stroke of genius or a beautiful disaster - honestly, even i'm not sure which is which half the time.
 
-## Repository categories
+## repository categories
 
-**🚀 Stuff that actually works**  
-Projects I can show without feeling embarrassed
+**🚀 stuff that actually works**  
+projects i can show without feeling embarrassed
 
-**🧪 Random experiments**  
-"What happens if I..." type of repositories
+**🧪 random experiments**  
+"what happens if i..." type of repositories
 
-**📚 Learning stuff**  
-Following tutorials and seeing how badly I can mess them up
+**📚 learning stuff**  
+following tutorials and seeing how badly i can mess them up
 
-**🤷‍♂️ Questionable decisions**  
-We all have these. At least mine compile.
+**🤷‍♂️ questionable decisions**  
+we all have these. at least mine compile.
 
-## What to expect
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brendmung&show_icons=true&theme=dark&include_all_commits=true&count_private=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendmung&layout=compact&theme=dark" height="165"/>
+</div>
 
-Most stuff here actually runs. Some of it even does what it's supposed to do. Browse around and see what happens - worst case scenario, you learn what not to do.
+## what to expect
 
-## Random repo facts
+most stuff here actually runs. some of it even does what it's supposed to do. browse around and see what happens - worst case scenario, you learn what not to do.
 
-- Commit messages range from professional to "fix stuff"
-- Some repos started as 5-minute fixes and became week-long projects
-- My code comments are either way too detailed or completely missing
-- Half my READMEs just say "# Project Name"
+## random repo facts
 
-## Explore at your own risk
+- commit messages range from professional to "fix stuff"
+- some repos started as 5-minute fixes and became week-long projects
+- my code comments are either way too detailed or completely missing
+- half my readmes just say "# project name"
+- everything works(wanna find out?)
 
-Each repository is an adventure. Some will teach you something new, others will teach you what not to do. Both are valuable learning experiences!
+## explore at your own risk
+
+each repository is an adventure. some will teach you something new, others will teach you what not to do. both are valuable learning experiences!
 
 ---
 
-*Feel free to look around. If something breaks, it's probably not your fault.* 🤷‍♂️
+*feel free to look around. if something breaks, it's probably not your fault.* 🤷‍♂️
