@@ -19,12 +19,6 @@ following tutorials and seeing how badly i can mess them up
 
 **🤷‍♂️ questionable decisions**  
 we all have these. at least mine compile.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brendmung&show_icons=true&theme=dark&include_all_commits=true&count_private=false" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendmung&layout=compact&theme=dark" height="165"/>
-</div>
-
 ## what to expect
 
 most stuff here actually runs. some of it even does what it's supposed to do. browse around and see what happens - worst case scenario, you learn what not to do.
